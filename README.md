@@ -1,10 +1,9 @@
-````markdown
 # Tiling Space Cosmology: Numerical Validation of the Scaling Law
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the numerical simulation code for the paper **"Emergent Cosmology from Quasicrystal Growth: A Derived 5/6 Scaling Law."** The code validates the central theoretical claim that a cosmological scale factor, $a(n)$, emerges from the growth of a quasicrystal projected from the 8D E8 lattice, following a parameter-free scaling law:
+This repository contains the numerical simulation code for the paper **"Emergent Cosmology from Quasicrystal Growth: A Derived Scaling Law."** The code validates the central theoretical claim that a cosmological scale factor, $a(n)$, emerges from the growth of a quasicrystal projected from the 8D E8 lattice, following a parameter-free scaling law:
 
 $$ a(n) \asymp n^{5/6} $$
 
@@ -41,7 +40,7 @@ You'll need a Python environment with the following libraries installed:
 You can install them using pip:
 ```bash
 pip install numpy scipy pandas matplotlib jupyter
-````
+```
 
 ### 2\. Run the Calculation
 
@@ -82,7 +81,7 @@ This strong agreement serves as the primary validation for the model presented i
 
 If you use this code or the concepts from the associated paper, please cite:
 
-Amaral, M. M., & Yadav, A. (2025). *Emergent Cosmology from Quasicrystal Growth: A Derived 5/6 Scaling Law*.
+Amaral, M. M., & Yadav, A. (2025). *Emergent Cosmology from Quasicrystal Growth: A Derived Scaling Law*.
 
 -----
 
@@ -90,5 +89,3 @@ Amaral, M. M., & Yadav, A. (2025). *Emergent Cosmology from Quasicrystal Growth:
 
 This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
-```
-```
